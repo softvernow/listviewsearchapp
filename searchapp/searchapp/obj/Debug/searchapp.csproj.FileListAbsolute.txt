@@ -1,0 +1,10 @@
+c:\users\efortes\source\repos\searchapp\searchapp\obj\Debug\searchapp.csprojResolveAssemblyReference.cache
+c:\users\efortes\source\repos\searchapp\searchapp\obj\Debug\searchapp.Form1.resources
+c:\users\efortes\source\repos\searchapp\searchapp\obj\Debug\searchapp.Properties.Resources.resources
+c:\users\efortes\source\repos\searchapp\searchapp\obj\Debug\searchapp.csproj.GenerateResource.Cache
+c:\users\efortes\source\repos\searchapp\searchapp\obj\Debug\searchapp.csproj.CoreCompileInputs.cache
+c:\users\efortes\source\repos\searchapp\searchapp\bin\Debug\searchapp.exe.config
+c:\users\efortes\source\repos\searchapp\searchapp\bin\Debug\searchapp.exe
+c:\users\efortes\source\repos\searchapp\searchapp\bin\Debug\searchapp.pdb
+c:\users\efortes\source\repos\searchapp\searchapp\obj\Debug\searchapp.exe
+c:\users\efortes\source\repos\searchapp\searchapp\obj\Debug\searchapp.pdb
